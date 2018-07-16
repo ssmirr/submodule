@@ -1,0 +1,3 @@
+[submodule "privatesubmodule"]
+	path = privatesubmodule
+	url = git@github.com:ssmirr/privatesubmodule.git
